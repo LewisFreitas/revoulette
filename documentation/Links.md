@@ -9,3 +9,6 @@
 ## HOWTOs
 
 [Truffle Pet Shop example](http://truffleframework.com/tutorials/pet-shop)
+
+## Learning
+[CryptoZombies Lessons on Smart Contracts/dapps on Solidity](https://cryptozombies.io/en/course/)
