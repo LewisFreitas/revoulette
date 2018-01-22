@@ -3,17 +3,19 @@
 body,
 .pure-g [class*=pure-u] {
   font-family: 'Open Sans', sans-serif;
+  background: #000;
 }
 
-h1, h2, h3 {
+h1, h2, h3, p {
   font-family: 'Oswald', 'Arial Narrow', sans-serif;
+  color: #fff;
 }
 
 code {
   display: block;
   margin: 20px 0 15px 0;
   padding: 10px;
-  background: #eee;
+  background: #fff;
 }
 
 .container {
@@ -39,7 +41,7 @@ code {
 .navbar {
   position: fixed;
   padding: 5px;
-  background: #0c1a2b;
+  background: #6AE368;
   font-family: 'Oswald', 'Arial Narrow', sans-serif;
 }
 
