@@ -21,15 +21,17 @@ para todas as pessoas verem.
 *on both ends*. Esta tecnologia pode e deve ser usada em qualquer negócio em que pessoas necessitem de colaborar com documentos
 e manter a segurança dos mesmos.
 
-* O que são *Smart Contracts*?
+* **O que são *Smart Contracts***?
 A comunicação entre entidades acima descrita necessita de um protocolo. *Smart Contracts* são isso mesmo - protocolos; contractos.
 Um *Smart Contract* é uma protocolo digital que promove, verifica e permite a negociação e a performance de um contracto.
 O seu objetivo é garantir uma segurança superior às formas tradicionais e reduzir os custos das mesmas.
 Ethereum é atualmente a plataforma mais reconhecida que facilita a implementação e desenvolvimento de *Smart Contracts*.
 
-* O que é *Solidity*?
+* **O que é *Solidity***?
 *Solidity* é uma linguagem de alto nível orientada a contractos (*contract-oriented*), usada no desenvolvimento de *Smart Contracts*.
 *Solidity* foi desenhado a com o objetivo de incorporar a Ethereum Virtual Machine (EVM).
+  * **Como aprender?** Fazer as lições disponíveis em [CryptoZombies](https://cryptozombies.io/en/course/). Atualmente o 
+  curso conta com três lições, com a quarta para ser lançada brevemente.
 
 ### join us on:
 * [Reddit](reddit.com/r/blockchainportugal)
