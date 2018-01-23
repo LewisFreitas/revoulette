@@ -38,3 +38,5 @@ Ethereum é atualmente a plataforma mais reconhecida que facilita a implementaç
 ### join us on:
 * [Reddit](https://reddit.com/r/blockchainportugal)
 * [Telegram](https://t.me/joinchat/Hw3PHUlAhETzgTY1cwOdeA)
+
+![revolution](https://lewisfreitas.github.io/revoulette/revolution.png)
