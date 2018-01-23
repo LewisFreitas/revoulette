@@ -1,4 +1,4 @@
-<center>![revoulette](https://lewisfreitas.github.io/revoulette/revoulette.png)</center>
+![revoulette](https://lewisfreitas.github.io/revoulette/revoulette.png)
 
 # revoulette - join the revolution
 * Revoulette is about standing up for decentralization and fairness.
