@@ -1,4 +1,4 @@
-![revoulette](https://github.com/LewisFreitas/revoulette/blob/master/docs/revoulette.png)
+![revoulette](https://lewisfreitas.github.io/revoulette/revoulette.png)
 
 # revoulette - join the revolution
 * Revoulette is about standing up for decentralization and fairness.
@@ -36,5 +36,5 @@ Ethereum é atualmente a plataforma mais reconhecida que facilita a implementaç
   curso conta com três lições, com a quarta para ser lançada brevemente.
 
 ### join us on:
-* [Reddit](reddit.com/r/blockchainportugal)
+* [Reddit](https://reddit.com/r/blockchainportugal)
 * [Telegram](https://t.me/joinchat/Hw3PHUlAhETzgTY1cwOdeA)
