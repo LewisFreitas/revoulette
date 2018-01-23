@@ -3,8 +3,7 @@
 # revoulette - join the revolution
 * Revoulette is about standing up for decentralization and fairness.
 * Revoulette is about being brave. 
-* Revoulette is about glory.
-* Revoulette is about joining a revolution. 
+* Revoulette is joining a revolution. 
 
 ## Blockchain Portugal #1 Hackathon
 
