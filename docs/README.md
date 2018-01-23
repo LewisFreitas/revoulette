@@ -1,3 +1,5 @@
+![revoulette](https://github.com/LewisFreitas/revoulette/blob/master/docs/revoulette.png)
+
 # revoulette - join the revolution
 * Revoulette is about standing up for decentralization and fairness.
 * Revoulette is about being brave. 
